@@ -213,7 +213,7 @@ export const contacto = {
   intro:
     "¿Quieres colaborar, proponer una idea o sumar tu organización? Escríbenos.",
   email: "hola@cambiemoselfuturo.org",
-  closingPlain: "Dorian Samir Mamani Tinuco 6toa,",
+  closingPlain: "Dorian Samir Mamani Tinuco,",
   closingAccent: "6to ALFA",
   form: {
     nameLabel: "Tu nombre",
