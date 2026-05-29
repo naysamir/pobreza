@@ -214,7 +214,7 @@ export const contacto = {
     "¿Quieres colaborar, proponer una idea o sumar tu organización? Escríbenos.",
   email: "hola@cambiemoselfuturo.org",
   closingPlain: "cambiemos el mundo",
-  closingAccent: "6to ALFA",
+  closingAccent: "clase de hoy 29/05/2026",
   form: {
     nameLabel: "Tu nombre",
     namePlaceholder: "¿Cómo te llamas?",
